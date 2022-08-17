@@ -19,3 +19,10 @@ Associated risks for the above case
 1.Late submission of information,delays in documents approval by the customer
 2.Incorrect or incomplete started requirement
 3.Changes in the requirements during development
+
+User Stories:
+As an library manager,I want to update information of books on bookshelf in system so that I can manage books conveniently.
+Acceptance Criteria(Abstract):
+1.Information of book on bookshelf can be added in detail.
+2.Information of book can be removed from the system.
+3.New books can be added on bookshelf.
